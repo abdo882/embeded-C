@@ -1,2 +1,0 @@
-# embeded-C
-lap1 
